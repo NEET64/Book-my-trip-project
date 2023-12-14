@@ -1,6 +1,7 @@
 # Book My Trip
 
 A simple static website for booking your dream vacations!, this is my first web design project.
+here is the link: https://neet64.github.io/Book-my-trip-project/ 
 
 ## Features
 - User-friendly interface
